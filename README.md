@@ -1,6 +1,5 @@
 # Software-Defined-Networking
 
-SDN OpenFlow Virtaul Switches
 Mininet, RYU, OpenFlow v1.3
 
 
